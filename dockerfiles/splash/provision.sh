@@ -47,7 +47,7 @@ install_deps () {
         python-qt4 \
         python-pip \
         libre2 \
-        libicu48 \
+        libicu-dev \
         liblua5.2 \
         zlib1g
 }
