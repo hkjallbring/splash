@@ -48,6 +48,7 @@ install_deps () {
         python-pip \
         libre2 \
         libicu-dev \
+        libssl-dev \
         liblua5.2 \
         zlib1g
 }
