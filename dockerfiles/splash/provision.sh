@@ -90,7 +90,7 @@ install_msfonts() {
 
 install_extra_fonts() {
     # Install extra fonts (Chinese)
-    apt-get install ttf-wqy-zenhei
+    apt-get install fonts-wqy-zenhei ttf-wqy-zenhei
 }
 
 remove_builddeps () {
